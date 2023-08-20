@@ -1,0 +1,24 @@
+.nav-header-layout {
+    padding: 0.5rem 1rem 0.5rem !important;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: '>' !important;
+}
+
+.table-hover tbody tr:hover {
+    cursor: pointer;
+}
+
+.checkbox-layout {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.user-panel img {
+    width: 2.8rem;
+}
+
+.user-panel .image {
+    padding-left: 8px;
+}
